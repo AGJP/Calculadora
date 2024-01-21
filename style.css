@@ -1,0 +1,109 @@
+
+input#tecla_somar {
+    font: normal 20pt Arial;  
+    background: rgb(254, 159, 12);
+    color: white;
+    width: 150px;
+    height: 100px;
+    line-height: 100px;
+    text-align: center;
+}
+input#tecla_resultado {
+    font: normal 20pt Arial;  
+    background: rgb(254, 159, 12);
+    color: white;
+    width: 150px;
+    height: 100px;
+    line-height: 100px;
+    text-align: center;
+    border-end-end-radius: 8px;
+}
+input#tecla_subtrair {
+    font: normal 20pt Arial;  
+    background: rgb(254, 159, 12);
+    color: white;
+    width: 150px;
+    height: 100px;
+    line-height: 100px;
+    text-align: center;
+}
+input#tecla_multiplicar {
+    font: normal 20pt Arial;  
+    background: rgb(254, 159, 12);
+    color: white;
+    width: 150px;
+    height: 100px;
+    line-height: 100px;
+    text-align: center;
+}
+input#tecla_dividir {
+    font: normal 20pt Arial;  
+    background: rgb(254, 159, 12);
+    color: white;
+    width: 150px;
+    height: 100px;
+    line-height: 100px;
+    text-align: center;
+}
+input#limpar {
+    font: normal 20pt Arial;  
+    background:  rgb(107, 107, 107);
+    color: white;
+    width: 100px;
+    height: 100px;
+    line-height: 100px;
+    text-align: center;
+}
+input#negar {
+    font: normal 20pt Arial;  
+    background:  rgb(107, 107, 107);
+    color: white;
+    width: 100px;
+    height: 100px;
+    line-height: 100px;
+    text-align: center;
+}
+input#porcentagem {
+    font: normal 20pt Arial;  
+    background:  rgb(107, 107, 107);
+    color: white;
+    width: 100px;
+    height: 100px;
+    line-height: 100px;
+    text-align: center;
+}
+input#tecla0 {
+    font: normal 20pt arial;  
+    background: rgb(131, 131, 131);
+    color: white;
+    width: 199px;
+    height: 100px;
+    line-height: 100px;
+    text-align: center;
+    border-end-start-radius: 8px;
+}
+div#tela {
+    font: normal 30pt arial;
+    background: rgb(91, 91, 91);
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+    color: white;
+    width: 417px;
+    height:73px;
+    line-height: 70px;
+    text-align: end;
+    padding: 15px;
+    box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.344);
+}
+input {
+    font: normal 20pt Arial;  
+    background: rgb(131, 131, 131);
+    color: white;
+    width: 100px;
+    height: 100px;
+    line-height: 100px;
+    text-align: center;
+    margin-top: -1px;
+    margin-right: -5px;
+    box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.344);
+}
